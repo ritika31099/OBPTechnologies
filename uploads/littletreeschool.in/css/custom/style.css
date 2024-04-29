@@ -1,0 +1,249 @@
+.clr1{color: #fec429;}/*yellow*/
+.clr1:hover{color: #fec429;}/*-*/
+.clr2{color: #e67817;}/*orange*/
+.clr2:hover{color: #e67817;}/*-*/
+.clr3{color: #023659;}/*blue*/
+.clr3:hover{color: #023659;}/*-*/
+
+/* background color */
+.bgWhite1{background-color: #FFFFFF;}
+.bgWhite2{background-color: #F2F2F2;}
+.bgWhite3{background-color: #F0F3F6;}
+.bgWhite4{background-color: #F4F8FA;}
+.bgBlack1{background-color: #000000;}
+.bgBlack2{background-color: #1E1E1E;}
+.bgBlack3{background-color: #222222;}
+.bgdblack{background-color: #0f1215;}	
+.bg-gray{background:#f7f7f7;}
+.bg-lightyellow{background:#fff2c9;}
+
+.bg1{background-color: #fec429;}/*yellow*/
+.bg2{background-color: #e67817;}/*orange*/
+.bg3{background-color: #023659;}/*blue*/
+/* font family */
+.ff-os{font-family: 'Open Sans', sans-serif;}
+.ff-lora{font-family: 'Lora', serif;}
+.ff-Lato{font-family: 'Lato', serif;}
+.ff-cabin{font-family: 'Cabin', serif;}
+.ff-robot{font-family:'Roboto Condensed', sans-serif;}
+/* font weight */
+.fw300{font-weight: 300;}
+.fw400{font-weight: 400;}
+.fw500{font-weight: 500;}
+.fw600{font-weight: 600;}
+.fw700{font-weight: 700;}
+/* border radius */
+/* margin */
+.m-t-10{margin-top: 10px;}
+.m-l-10{margin-left: 10px;}
+.m-r-10{margin-right: 10px;}
+.m-b-10{margin-bottom: 10px;}
+.m-t-15{margin-top: 15px;}
+.m-t-100{margin-top: 100px;}
+.m-l-15{margin-left: 15px;}
+.m-r-15{margin-right: 15px;}
+.m-b-15{margin-bottom: 15px;}
+.m-x-20{margin-left: 20px; margin-right: 20px;}
+.m-y-20{margin-top: 20px; margin-bottom: 20px;}
+.m-x-30{margin-left: 30px; margin-right: 30px;}
+.m-x-100{margin-left: 100px; margin-right: 100px;}
+.m-y-30{margin-top: 30px; margin-bottom: 30px;}
+.m-y-100{margin-top: 100px; margin-bottom: 100px;}
+/* padding */
+.p-t-10{padding-top: 10px;}
+.p-l-10{padding-left: 10px;}
+.p-r-10{padding-right: 10px;}
+.p-b-10{padding-bottom: 10px;}
+.p-t-15{padding-top: 15px;}
+.p-l-15{padding-left: 15px;}
+.p-r-15{padding-right: 15px;}
+.p-b-15{padding-bottom: 15px;}
+.p-t-20{padding-top: 20px;}
+.p-t-50{padding-top: 50px;}
+.p-l-20{padding-left: 20px;}
+.p-r-20{padding-right: 20px;}
+.p-b-20{padding-bottom: 20px;}
+.p-b-50{padding-bottom: 20px;}
+.p-x-25{padding-left: 0px; padding-right: 25px;}
+.p-y-25{padding-top: 25px; padding-bottom: 25px;}
+.p-x-30{padding-left: 30px; padding-right: 30px;}
+.p-y-30{padding-top: 30px; padding-bottom: 30px;}
+.p-y-100{padding-top: 100px; padding-bottom: 100px;}
+.p-x-100{padding-left: 100px; padding-right: 100px;}
+.p-t-100{padding-top: 100px;}
+.p-b-100{padding-bottom: 100px;}
+.p-z-50{padding-bottom: 50px;}
+.py-78{
+	padding: 78% 0 !important;
+}
+.h-w-100{height: 100%;}
+.d-center{}
+
+/* section padding */
+.sectionPadding1{padding-top: 60px; padding-bottom: 55px;}
+.sectionPadding2{padding-top: 20px; padding-bottom: 70px;}
+.sectionPadding3{padding-top: 30px; padding-bottom: 30px;}
+.sectionPadding4{padding-top: 30px; padding-bottom: 0px;}
+.fs12{font-size: 12px;}
+.fs14{font-size: 14px;}
+.fs16{font-size: 16px;}
+.fs18{font-size: 18px;}
+.fs20{font-size: 20px;}
+.fs22{font-size: 22px;}
+.fs24{font-size: 24px;}
+.fs26{font-size: 26px;}
+.fs28{font-size: 28px;}
+.fs34{font-size: 34px;}
+.fs52{font-size: 52px;}
+.txtcolor{color:#5f6f81;}
+.bgcolor{background-color:#5f6f81;}
+.txtcolor2{color:#b3d4fc;}
+/* =================================================== */
+p{
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 500;
+}
+h1 h2 h3 h4 h5 h6{
+  font-family: 'Rajdhani', sans-serif;
+}
+hr{
+  height: 1px;
+color: yellow;
+background-color: yellow;
+border: none;
+}
+
+/*-------------Header CSS Start-------------*/
+.top-header{background-color: #333;
+padding: 10px 0;}
+.top-header-ul {
+    padding: 0;
+    text-align: right;
+    margin: 0;
+}
+.top-header-ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+.top-header-ul li:last-child{ margin-right:0 ; }
+.top-header-ul li a{ color: #fff; text-decoration: none; }
+/*-------------Header CSS End-------------*/ 
+/* ==============menu section============ */
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #023659;
+}
+/* ==============menu section============ */
+/* ========================= */
+.uline{
+  width: 200px;
+  height: 5px;
+  background-color: yellow;
+}
+/* ==================================== */
+.tab{
+  position: relative;
+  transition:2s;
+  padding: 0px 30px;
+}
+.tab:hover{
+  top: -10px;
+}
+.tab a i{
+  transition: 1s;
+}
+.tab a:hover i{
+  color: yellow;
+  margin-left: 10px;
+}
+/* ==================================== */
+
+.overlay {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 220px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.overlay:hover .image {
+  background-color: #262626;
+  opacity: 0.3;
+}
+
+.overlay:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+.imgsection img{
+  height: 593px;
+}
+/* ============================================================= */
+.cardsection{
+  position: relative;
+  overflow: hidden;
+}
+.cardover{
+  position: absolute;
+  /* top: 50%; */
+}
+.cardsection img{
+  transition: 2s;
+}
+.cardsection:hover img{
+  transform: scale(1.1);
+}
+/* ========================================= */
+.Registrationbg{
+
+}
+.Registrationform{
+  background-image: url('../../img/school/parallax1.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.blogsection{
+  position: relative;
+  overflow: hidden;
+}
+.blogsection img{
+  transition: 2s;
+}
+.blogsection:hover img{
+  transform: scale(1.1);
+}
+/* ======================================== */
+.mainfooter{
+  background-image: url('../../img/school/parallax1.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/* ====================Director-Massage================== */

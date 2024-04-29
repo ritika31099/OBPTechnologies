@@ -1,0 +1,107 @@
+@media only screen and (max-width: 767px) {
+  .social-icons {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .owl-next {
+    right: 0;
+  }
+  .owl-prev {
+    left: 0;
+  }
+  .owl-theme .owl-nav i::before {
+    font-size: 16px;
+  }
+  .my-slider .carousel-control-prev span {
+    width: 25px;
+    height: 25px;
+    line-height: 23px;
+  }
+  .my-slider .carousel-control-prev span::before {
+    font-size: 12px;
+  }
+  .my-slider .carousel-control-next span {
+    width: 25px;
+    height: 25px;
+    line-height: 23px;
+  }
+  .my-slider .carousel-control-next span::before {
+    font-size: 12px;
+  }
+  .banner-content {
+    top: 20%;
+    left: 6%;
+  }
+  .banner-content h2 {
+    font-size: 18px !important;
+  }
+  .banner-content .breadcrumb {
+    margin: 0;
+  }
+  .banner-content .breadcrumb li,
+  .breadcrumb li a {
+    font-size: 10px;
+  }
+
+  .top-bar p {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  .contact-details {
+    width: 100%;
+    text-align: center;
+  }
+  .contact-details li {
+    margin-bottom: 8px;
+  }
+  .email-id {
+    display: none !important;
+  }
+  .my-nav .navbar-brand img {
+    width: 100px;
+    height: auto;
+  }
+  .service-content p {
+    font-size: 14px;
+  }
+  .title h2 {
+    font-size: 22px !important;
+  }
+  .title h2::before {
+    top: 50px;
+  }
+  .title h2::after {
+    top: 48px;
+  }
+  .snip1584 h3 {
+    font-size: 13px !important;
+  }
+  .link-section ul {
+    margin-left: 10px;
+  }
+  .home-page-intro h1 {
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+  }
+  .home-page-content {
+    padding: 30px 0;
+  }
+  .service-section {
+    margin: 35px 0;
+  }
+  .recent-work-section {
+    margin-bottom: 30px;
+  }
+  .my-nav .navbar-collapse .nav-item a {
+    padding-left: 15px;
+  }
+  .contact-right {
+    padding: 0;
+    padding-left: 30px;
+    padding-top: 20px;
+  }
+  .inner-page-section {
+    margin: 30px 0;
+  }
+}

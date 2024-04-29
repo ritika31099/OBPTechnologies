@@ -1,0 +1,521 @@
+
+/*-------------------------------media_queries-------------------------------------------------*/
+@media screen and (min-width: 320px) and (max-width:575.98px) 
+{  
+.inputsection2 {
+    position: relative;
+    bottom: 80px;
+    border: 0px;
+    /*padding-left: 100px;
+    padding-right: 100px;*/
+    padding: 0;
+}
+.inputsection{
+position: relative !important;
+bottom: 80px !important;
+border:0px !important;
+/*padding-left: 100px !important;
+padding-right: 100px !important;*/
+/*font-size:26px;
+font-weight:200;
+text-align:right;
+background-color:#111118;
+line-height: 20px;
+cursor:pointer;
+padding:24px;
+width:100%;
+height: 300px;*/
+margin-top: 80px;
+}
+/*.locationsection{
+background-color: #00bfb0 !important;
+padding: 70px !important;
+height: 250px !important;
+width:50px !important;
+}*/
+.imground img{
+height: 100px;
+width: 100px;
+padding-bottom: 8px;
+}
+
+.inputsection{ padding: 0; }
+.locationsection{
+background-color: #00bfb0;
+padding-top: 35px;
+padding-bottom: 35px;
+height: auto;
+width:100%;
+}
+.locationsection h2{
+    padding: 0px !important;
+    font-size: 24px;
+}
+.timesection{
+background-color: #ff516a;
+padding-top: 35px;
+padding-bottom: 35px;
+height: auto;
+width:100%;
+}
+.timesection h2{ font-size: 24px; }
+.imground h4{
+    font-size: 16px;
+}
+.imground p{
+    font-size: 14px;
+}
+.ourteach2 h2{
+    font-size: 20px !important;
+}
+.ourteach2 p{
+    font-size: 12px !important;
+}
+.cmsmasters_button{
+font-size: 14px;
+line-height: 40px;
+font-weight: 400;
+padding-right: 30px;
+padding-left: 30px;
+border-width: 0px;
+-webkit-border-radius: 40px;
+border-radius: 20px;
+background-color: #00beb0;
+color: #ffffff;
+}
+.textpadding{
+padding-top:10px !important;
+padding-bottom: 10px !important;
+}
+.textpadding h1{
+   font-size: 30px !important;
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.textpadding2 h3{
+    font-size:45px; 
+}
+.textpadding2 h4{
+    font-size: 20px;
+}
+..textpadding2 p{
+    font-size: 14px;
+}
+.media-body{
+    padding: 0 !important;
+}
+.imgsection img{
+    padding-top: 28px !important;
+}
+.eventsection img{
+height: 100px;
+width: 130px;
+}
+.knowledge h3{
+ font-size: 20px;
+}
+.knowledge p{
+    font-size: 14px;
+}
+.cmsmasters_button2{
+  padding: 10px;
+font-size: 12px;   
+}
+.placesection h2{
+ font-size: 20px !important;  
+} 
+.placesection p{
+
+ font-size: 14px !important;  
+} 
+.cmsmasters_button{
+padding: 10px;
+font-size: 12px;
+}
+
+.bgcolr h1{
+  font-size: 24px;
+}
+.commitment ul li a{
+    font-size:14px; 
+}
+.commitment h3{
+    font-size: 20px;
+}
+.commitment p{
+    font-size: 14px;
+}
+.ourteach2 h1{
+    font-size: 24px !important;
+}
+.ourteach2 h5{
+    font-size: 16px !important;
+}
+.bg-img h2{
+    font-size: 22px;
+}
+.bg-img p{
+    font-size: 14px;
+}
+.btn-cls{
+font-size: 14px;
+line-height: 50px;
+font-weight: 300;
+border-width: 0px;
+-webkit-border-radius: 30px;
+border-radius: 30px;
+background-color:#ffffff;
+padding: 10px 10px;
+}
+.imglight{
+padding-top: 10px !important;
+}
+ .imglight h2{
+    font-size: 20px;
+ }
+ .imglight p{
+    font-size: 14px;
+ }
+ .newsection h5{
+   font-size: 16px;
+ }
+ .newsection p{
+   font-size: 12px;
+ }
+ .btn-cls2{
+    padding: 12px;
+    font-size: 14px;
+ }
+ .midtext{
+padding-top:50px;
+}
+.background_img2{
+background-image: linear-gradient(rgba(000, 000, 000, 0.60),rgba(0, 0, 0, 0.60)), url('../img/ri3.jpg');
+height:250px;
+/* width: 100;*/
+background-size:100% 100%;
+background-repeat: no-repeat;
+}
+ .background_img2 h2 {
+    font-size: 20px;
+ }
+ .background_img2 p {
+    font-size: 14px;
+ }
+ .cls2{
+     padding: 8px;
+    font-size: 16px;
+ }
+ #cmsmasters_button_7aav0uqdkt{
+    padding: 0 !important;
+  }
+  .teacher {
+    padding-bottom: 20px;
+}
+ .textpading h1{
+    font-size: 30px;
+ }
+ .textpading h3{
+    font-size: 20px;
+ }
+ .textpading h5{
+    font-size: 12px;
+ }
+ .textpading p{
+    font-size: 14px;
+ }
+ .textpading{
+    padding-top:20px;
+    /*padding-bottom:5px;*/
+}
+.image{
+    padding-top: 20px;
+}
+.parents h1{
+    font-size: 20px;
+}
+.parents p{
+    font-size: 14px;
+}
+.Parents{
+padding-top:50px;
+}
+
+.instaimg h2{
+  font-size: 20px;
+}
+.topborder2 {
+    padding-top: 0px;
+}
+/*===================footer strt==================*/
+  .footer-section h4{
+   font-size: 16px;
+  }
+   .footer-section p{
+   font-size: 14px;
+  }
+   .footerLinks ul li{
+   font-size: 12px;
+  }
+  
+ /*==============classroom ===============young toddlers==============*/
+
+ .classromimg{
+background-image: url('../img/9.jpg');
+background-size: 100% 100%;
+height: 200px;
+}
+.Young {
+    padding-top: 50px;
+    font-size: 20px;
+}
+.Young p{
+    font-size: 14px;
+}
+.textalign{
+    text-align: justify;
+    padding-top: 10px;
+}
+.Young6 p{
+    font-size: 14px !important;
+}
+.Young1{
+    
+    font-size: 20px;
+}
+.Young6 ul li{
+    font-size: 14px !important;
+}
+.Youngskills{
+    font-size: 18px
+}
+/*.img-fluid22{
+    height: 250px;
+}*/
+/*========================toddlers class=======================*/
+ .classromimg2{
+    height: 200px;
+ }
+ .classromimg3{
+    height: 200px;
+ }
+ .classromimg4{
+    height: 200px;
+ }
+ /*=====================aboutus  cls====================*/
+ .aboutus2{
+        background-image: url('../img/93.jpg');
+        background-size: cover;
+        height: 200px;
+    }
+    .community h2{
+         font-size: 20px;
+    }
+    .community p{
+        font-size: 14px;
+    }
+.OurTeachers{
+    padding-top: 20px;
+}
+.imgpadding2{
+    padding-top: 15px;
+}
+.OurTeachers h2{
+    font-size: 20px;
+}
+.OurTeachers p{
+    font-size: 14px;
+}
+.welcome2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Mission{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Mission h1{
+    font-size: 20px
+
+}
+.Mission p{
+    font-size: 14px;
+}
+.bkgrd-img23{
+       background-image: url('../img/9.jpg');
+        background-size: cover;
+        height: 600px;
+    }
+    .iconsection h2{
+         font-size: 20px;
+    }
+    .iconsection p{
+         font-size: 14px;
+    }
+    
+    /*================teacher=========================*/
+    
+    .teacher4{
+        background-image: url('../img/9.jpg');
+        background-size: cover;
+        height: 200px;
+
+}
+/*===================events===================*/
+.Events{
+    padding-top: 20px;
+}
+.events6 h2{
+    font-size: 20px;
+}
+.events6 h4{
+    font-size: 20px;
+}
+.events6 h5{
+    font-size: 20px;
+}
+
+.events p{
+    font-size: 14px;
+}
+.listclass ul li{
+  font-size: 14px;
+}
+.January{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.news{
+        background-image: url('../img/headline-2.jpg');
+        background-size: cover;
+        height: 200px;
+
+}
+.textresp ul li{
+    font-size: 14px;
+}
+.textresp h3{
+    font-size: 20px;
+}
+.textresp p{
+    font-size: 14px;
+}
+/*======================contact=========================*/
+
+.contactimg{
+    background-image: url('../img/contact.jpg');
+        background-size: cover;
+        height: 200px;
+
+}
+.touch{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.touch{
+    font-size: 20px;
+}
+.youremail label{
+    font-size: 14px;
+}
+/*====================portfolio=========================*/
+    .portfolio{
+        background-image: url('../img/headline2bg.jpg');
+        background-size: cover;
+        height: 200px;
+
+}
+.Portfolio2{
+    padding-top:50px;
+}
+ .portfolio h1{
+    font-size:20px !important;
+}
+ .portfolio p{
+    font-size:14px !important;
+}
+.portfolio6 h4{
+    font-size: 18px;
+}
+.portfolio6 h1{
+    font-size: 20px;
+}
+.portfolio6 ul li{
+    font-size: 14px;
+}
+.btn1{
+font-size: 14px;
+font-weight: 300;
+padding: 10px 20px;
+}
+.Quotes{
+        background-image: url('../img/headline2bg.jpg');
+        background-size: cover;
+        height: 200px;
+
+}
+.quotes2{
+    padding-top: 50px;
+}
+.Quotes h1{
+ font-size: 20px
+}
+.Quotes p{
+ font-size: 14px
+}
+/*===============================================*/
+
+.sidebars{
+        background-image: url('../img/headline2bg.jpg');
+        background-size: cover;
+        height: 200px;
+    }
+.sidebars2{
+        padding-top: 50px;
+    }
+    .art h3{
+     font-size: 20px;
+    }
+     .art ul li{
+     font-size: 14px;
+    }
+
+
+
+
+}
+
+
+@media screen and (min-width: 576px) and (max-width:767.98px) 
+{
+
+
+}
+@media screen and (min-width: 768px) and (max-width:991.98px) 
+{
+
+}
+@media screen and (min-width:992px) and (max-width:1199.98px)
+{
+
+}
+@media screen and (min-width:1200px) 
+{
+}
+
+
+
+/* 
+@media(min-width: 992px){
+
+}
+@media(min-width: 768px) and (max-width: 991px){
+
+}
+@media(min-width: 575px) and (max-width: 767px){
+
+}
+@media(min-width: 480px) and (max-width: 574px){
+
+} */

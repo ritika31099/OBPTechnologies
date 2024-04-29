@@ -1,0 +1,99 @@
+/* Large Devices, Wide Screens */
+
+@media only screen and (max-width: 1199px) {}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 991px) {}
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (max-width: 767px) {
+    #myModal img {
+        display: none!important;
+    }
+    #myModal .modal-dialog {
+        width: 80%!important;
+    }
+    .header-nav .nav-lg .menuzord .menuzord-menu>li {
+        padding: 0px !important;
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width: 479px) {
+    .menu-icon {
+        display: none;
+    }
+    .menuzord-responsive .menuzord-menu>li>a {
+        padding: 8px 16px;
+    }
+    .header-nav .menuzord .menuzord-menu>li.active>a {
+        background: #43b14b;
+        color: #fff;
+    }
+    .header-nav .menuzord-menu>li>a:hover {
+        background: #43b14b;
+        color: #fff;
+    }
+    .menuzord-menu .underline::after {
+        height: 0px;
+    }
+    .menuzord-brand h1 {
+        margin: 0;
+    }
+    .header-top .widget {
+        text-align: center;
+        padding: 2px;
+    }
+    .heading h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .heading h2::before,
+    .heading h2::after {
+        width: 100px;
+        top: 25px;
+    }
+    .heading span {
+        font-size: 18px;
+        top: 40px;
+    }
+    .shape {
+        rotate: 0deg;
+        width: 100%;
+        height: auto;
+    }
+    .shape .icon {
+        rotate: 0deg;
+    }
+    .shape-text {
+        margin-top: 0;
+        padding: 15px;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .shape-text h4 {
+        font-size: 25px;
+    }
+    .shape-text small {
+        font-size: 15px;
+    }
+    .facility-content h2 {
+        font-size: 28px;
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width: 360px) {}
+
+
+/* Custom, iPhone Retina */
+
+@media only screen and (max-width: 319px) {}
